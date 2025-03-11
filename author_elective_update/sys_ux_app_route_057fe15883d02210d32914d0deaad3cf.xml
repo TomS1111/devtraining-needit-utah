@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="NeedIt Experience">56a4a99083902210d32914d0deaad3c2</app_config>
+        <description/>
+        <extension_point/>
+        <fields>table</fields>
+        <icon/>
+        <name>Simple Lists</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>simple-lists</route_type>
+        <screen_type display_value="Simple Lists">787f251883d02210d32914d0deaad340</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-11 09:51:06</sys_created_on>
+        <sys_id>057fe15883d02210d32914d0deaad3cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Simple Lists</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_app_route_057fe15883d02210d32914d0deaad3cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-11 09:51:06</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="DELETE" query="documentkey=057fe15883d02210d32914d0deaad3cf"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>6f95979e1bc28294168f4089bd4bcbcd</instance_id>
+        <instance_name>dev267436</instance_name>
+        <name>sys_ux_app_route_057fe15883d02210d32914d0deaad3cf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="NeedIt Experience">56a4a99083902210d32914d0deaad3c2</app_config><description/><extension_point/><fields>table</fields><icon/><name>Simple Lists</name><optional_parameters/><order>0</order><parent_macroponent display_value="UXR Base Experience Shell">76a83a645b122010b913030a1d81c780</parent_macroponent><parent_macroponent_composition_element_id/><route_type>simple-lists</route_type><screen_type display_value="Simple Lists">787f251883d02210d32914d0deaad340</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-11 09:51:06</sys_created_on><sys_id>057fe15883d02210d32914d0deaad3cf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Simple Lists</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_app_route_057fe15883d02210d32914d0deaad3cf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-11 09:51:06</sys_updated_on></sys_ux_app_route><sys_translated_text action="delete_multiple" query="documentkey=057fe15883d02210d32914d0deaad3cf"/></record_update>]]></payload>
+        <payload_hash>343202528</payload_hash>
+        <record_name>Simple Lists</record_name>
+        <reverted_from/>
+        <source>b10261d883502210d32914d0deaad372</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-11 09:51:06</sys_created_on>
+        <sys_id>0d7fe15883d02210d32914d0deaad3d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195849d76110000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-11 09:51:06</sys_updated_on>
+        <type>UX App Route</type>
+        <update_guid>017fe15841d02210ec36e898b24e52d1</update_guid>
+        <update_guid_history>017fe15841d02210ec36e898b24e52d1:343202528</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-11 09:53:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>8088fa4020664bb68431142e3459ade1</sys_id>
+        <sys_metadata>057fe15883d02210d32914d0deaad3cf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Simple Lists</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_057fe15883d02210d32914d0deaad3cf</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_057fe15883d02210d32914d0deaad3cf">0d7fe15883d02210d32914d0deaad3d1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-11 09:53:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
